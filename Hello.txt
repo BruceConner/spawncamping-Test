@@ -1,2 +1,3 @@
 I use this file to learn how to use git client
 I have ate a lot of food, I’m full now!
+It was difficult to use git, I need practice more
